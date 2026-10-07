@@ -81,3 +81,18 @@ int main() {
 - [ ] v1.0 - Demo jugable cercana al original
 
 ## Creditos
+
+## Creditos
+
+**Creado por Dario Dados - Pergamino, Argentina**
+
+- Engine base & editor: Dario Dados
+- Inspirado en Bloodshot / Battle Frenzy (Domark, 1994)
+- Compilación con SGDK de Stephane Dallongeville
+- Testeo en hardware: Emulador BlastEm + Mega EverDrive
+
+**Licencia:** MIT - Libre para usar, modificar y aprender.
+
+Si usás este editor en tu proyecto, un crédito o link al repo se agradece pero no es obligatorio.
+
+【entity-GitHub¦canonical_name=GitHub】: [@dariodados](https://github.com/dariodados)
